@@ -1,0 +1,1 @@
+This project is an implementation of a hybrid database engine based on MySQL and SQLite. It was written using IntelliJ IDE. If you want to run it, the best bet would be to download IntelliJ and import the project. Or you can compile the classes and run the Main.java class.
